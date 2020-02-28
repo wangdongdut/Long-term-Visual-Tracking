@@ -125,4 +125,4 @@
 
 ## Others:
 
-* **Paper, Benchmark, Researchers, Teams:** https://github.com/foolwood/benchmark_results
+* **"Paper, Benchmark, Researchers, Teams" from Qiang Wang:** https://github.com/foolwood/benchmark_results
