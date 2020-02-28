@@ -3,9 +3,9 @@
 ### Recent Long-term Trackers
 
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang <br />
-  "'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
+  "'GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
   [[paper](https://arxiv.org/abs/1912.08531)]
-  [[code](GlobalTrack: A Simple and Strong Baseline for Long-term Tracking)]
+  [[code](https://github.com/huanglianghua/GlobalTrack)]
 
 * **SPLT:** Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang <br />
   "'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
