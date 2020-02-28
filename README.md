@@ -111,7 +111,7 @@
   [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]  
   
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. <br />
-  "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2018). 
+  "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
   [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
   [[project](https://cis.temple.edu/lasot/)]
   
