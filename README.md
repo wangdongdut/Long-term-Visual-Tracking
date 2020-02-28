@@ -7,6 +7,7 @@
   [[paper]()]
   [[code]()]
   **VOT2019-LT Winner**:star2: 
+  `This work is an improved version of the VOT2019-LT winner, [[LT_DSE](https://github.com/Daikenan/LT_DSE)].`
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
   "Siam R-CNN: Visual Tracking by Re-Detection." ArXiv (2019).
