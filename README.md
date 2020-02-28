@@ -34,6 +34,11 @@
   
 ### Early Long-term Trackers (before 2018)
 
+* **FuCoLoT:** Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas and Matej Kristan. 
+  "FuCoLoT - A Fully-Correlational Long-Term Tracker." ACCV (2018). 
+  [[paper](http://prints.vicos.si/publications/366)]
+  [[code](https://github.com/alanlukezic/fucolot)]
+
 * **PTAV:** Heng Fan and Haibin Ling. 
   "Parallel Tracking and Verifying: A Framework for Real-Time and High Accuracy Visual Tracking." ICCV (2017). 
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Parallel_Tracking_and_ICCV_2017_paper.pdf)]
