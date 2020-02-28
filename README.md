@@ -126,3 +126,11 @@
 ## Resources:
 
 * **"Paper, Benchmark, Researchers, Teams" maintained by Qiang Wang:** https://github.com/foolwood/benchmark_results
+
+* **"pysot [SiamRPN++, SiamMask, DaSiamRPN, SiamRPN]":** <br /> 
+  https://github.com/STVIR/pysot
+
+* **"pytracking [DIMP, ATOM]":** <br /> 
+  https://github.com/visionml/pytracking
+  
+  
