@@ -121,3 +121,8 @@
 * **3R:** Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
   "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." arXiv (2019). 
   [[paper](https://arxiv.org/pdf/1910.12273.pdf)]
+
+
+## Others:
+
+* **Paper, Benchmark, Researchers, Teams:** https://github.com/foolwood/benchmark_results
