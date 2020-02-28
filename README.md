@@ -9,7 +9,7 @@
   :star2: **VOT2019-LT Winner**
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.
-  "Siam R-CNN: Visual Tracking by Re-Detection." arXiv (2019).
+  "Siam R-CNN: Visual Tracking by Re-Detection." ArXiv (2019).
   [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
 
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang.
