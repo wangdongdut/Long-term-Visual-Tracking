@@ -123,6 +123,6 @@
   [[paper](https://arxiv.org/pdf/1910.12273.pdf)]
 
 
-## Others:
+## Resources:
 
-* **"Paper, Benchmark, Researchers, Teams" from Qiang Wang:** https://github.com/foolwood/benchmark_results
+* **"Paper, Benchmark, Researchers, Teams" maintained by Qiang Wang:** https://github.com/foolwood/benchmark_results
