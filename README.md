@@ -2,18 +2,18 @@
 
 ### Recent Long-term Trackers
 
-* **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang <br />
-  "'High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
+* **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. 
+  "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
   [[paper]()]
   [[code]()]
 
-* **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang <br />
-  "'GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
+* **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang.
+  "GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
   [[paper](https://arxiv.org/abs/1912.08531)]
   [[code](https://github.com/huanglianghua/GlobalTrack)]
 
-* **SPLT:** Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang <br />
-  "'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
+* **SPLT:** Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang. 
+  "Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/iiau-tracker/SPLT)]
 
