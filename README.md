@@ -123,6 +123,11 @@
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.pdf)]
   [[project](https://cis.temple.edu/lasot/)]
   
+* **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
+  "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
+  [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]   
+  
  
 ## Others:   
 
