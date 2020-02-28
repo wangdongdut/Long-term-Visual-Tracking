@@ -142,7 +142,7 @@
   [[dataset](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]
   
  
-## Others:   
+## Measurement&Discussion:   
 
 * **3R:** Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
   "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." arXiv (2019). 
