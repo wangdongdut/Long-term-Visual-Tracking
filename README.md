@@ -56,6 +56,12 @@
   [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ma_Long-Term_Correlation_Tracking_2015_CVPR_paper.pdf)]
   [[project](https://sites.google.com/site/chaoma99/cvpr15_tracking)]
   [[github](https://github.com/chaoma99/lct-tracker)]
+ 
+ * **TLD:** Zdenek Kalal, Krystian Mikolajczyk, Jiri Matas.
+  "Tracking-Learning-Detection." TPAMI (2012).
+  [[paper](https://ieeexplore.ieee.org/document/6104061)]
+  [[project](https://github.com/zk00006/OpenTLD)]
+
 
 ## Benchmark
 
