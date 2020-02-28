@@ -42,6 +42,19 @@
   [[paper](http://prints.vicos.si/publications/366)]
   [[code](https://github.com/alanlukezic/fucolot)] 
   
+### Long-term Trackers modified from Short-term Ones
+
+* **FuCoLoT:** Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas and Matej Kristan. <br /> 
+  "FuCoLoT - A Fully-Correlational Long-Term Tracker." ACCV (2018). 
+  [[paper](http://prints.vicos.si/publications/366)]
+  [[code](https://github.com/alanlukezic/fucolot)] 
+  
+* **FuCoLoT:** Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas and Matej Kristan. <br /> 
+  "FuCoLoT - A Fully-Correlational Long-Term Tracker." ACCV (2018). 
+  [[paper](http://prints.vicos.si/publications/366)]
+  [[code](https://github.com/alanlukezic/fucolot)] 
+  
+  
 ### Early Long-term Trackers (before 2018)
 
 * **PTAV:** Heng Fan, Haibin Ling. <br />
