@@ -2,11 +2,14 @@
 
 ### Recent Long-term Trackers
 
-* **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. <br /> 
+
+* ```diff 
+  - **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. <br /> 
   "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
+  ```
   [[paper]()]
   [[code]()]
-  **VOT2019-LT Winner**:star2: <br />  
+  **VOT2019-LT Winner**:star2: 
   `This work is an improved version of the VOT2019-LT winner, `[[LT_DSE](https://github.com/Daikenan/LT_DSE)].
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
