@@ -62,7 +62,7 @@
   [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hong_MUlti-Store_Tracker_MUSTer_2015_CVPR_paper.pdf)]
   [[project](https://sites.google.com/site/zhibinhong4131/Projects/muster)]  
   
-* **CMT:** Zhibin Hong, Zhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, Dacheng Tao.  
+* **CMT:** Georg Nebehay, Roman Pflugfelder.  
   "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking." CVPR (2015). 
   [[paper](https://zpascal.net/cvpr2015/Nebehay_Clustering_of_Static-Adaptive_2015_CVPR_paper.pdf)]
   [[project](http://www.gnebehay.com/cmt)]  
