@@ -6,6 +6,7 @@
   "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
   [[paper]()]
   [[code]()]
+  :star2: **VOT2019-LT Winner**
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.
   "Siam R-CNN: Visual Tracking by Re-Detection." arXiv (2019).
