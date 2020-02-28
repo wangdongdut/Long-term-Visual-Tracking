@@ -104,8 +104,8 @@
 
 ## Benchmark
 
-* **VOT:** . [[Visual Object Tracking Challenge](http://www.votchallenge.net/)] <br />
-  * [[VOT2019LT](http://www.votchallenge.net/vot2019/)][[Report](http://prints.vicos.si/publications/375)] <br />
+* **VOT:** . [[Visual Object Tracking Challenge](http://www.votchallenge.net/)]
+  * [[VOT2019LT](http://www.votchallenge.net/vot2019/)][[Report](http://prints.vicos.si/publications/375)]
   * [[VOT2018LT](http://www.votchallenge.net/vot2018/)][[Report](http://prints.vicos.si/publications/365/)]
 
 * **OxUvA:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves. <br />
