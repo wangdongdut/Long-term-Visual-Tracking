@@ -140,13 +140,22 @@
   [[paper](https://ivul.kaust.edu.sa/Documents/Publications/2016/A%20Benchmark%20and%20Simulator%20for%20UAV%20Tracking.pdf)]
   [[project](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)]
   [[dataset](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]
+  All 20
   
  
 ## Measurement&Discussion:   
 
-* **3R:** Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
-  "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." arXiv (2019). 
-  [[paper](https://arxiv.org/pdf/1910.12273.pdf)]
+* Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas, Matej Krista.
+  "Performance Evaluation Methodology for Long-Term Visual Object Tracking." ArXiv (2019).
+  [[paper](https://arxiv.org/abs/1906.08675)]
+
+* Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas, Matej Kristan. 
+  "Now You See Me: Evaluating Performance in Long-term Visual Tracking." ArXiv (2018).
+  [[paper](https://arxiv.org/abs/1804.07056)]
+  
+* Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
+  "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." ArXiv (2019). 
+  [[paper](https://arxiv.org/pdf/1910.12273)]
 
 
 ## Resources:
