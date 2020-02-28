@@ -3,8 +3,8 @@
 ### Recent Long-term Trackers
 
 
-* **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.
-  "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
+* **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.
+  "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020). ** <br />
   [[paper]()]
   [[code]()]
   **VOT2019-LT Winner**:star2: 
@@ -23,8 +23,8 @@
   [[paper](https://arxiv.org/abs/1912.08531)]
   [[code](https://github.com/huanglianghua/GlobalTrack)]
 
-* **SPLT:** Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br /> 
-  "Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
+* **SPLT: Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang.** <br /> 
+  **"Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).**
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/iiau-tracker/SPLT)]
   
@@ -42,8 +42,8 @@
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)]
   [[code](https://github.com/STVIR/pysot)]
   
-* **MBMD:** Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu. <br />
-  "Learning regression and verification networks for long-term visual tracking." Arxiv (2018).
+* **MBMD: Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu.** <br />
+  **"Learning regression and verification networks for long-term visual tracking." Arxiv (2018).**
   [[paper](https://arxiv.org/abs/1809.04320)]
   [[code](https://github.com/xiaobai1217/MBMD)]
   **VOT2018-LT Winner**:star2: 
