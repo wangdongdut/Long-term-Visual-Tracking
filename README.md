@@ -53,7 +53,7 @@
 * **DaSiam_LT:** Zheng Zhu, Qiang Wang, Bo Li, Wei Wu, Junjie Yan, Weiming Hu. <br /> 
   "Distractor-Aware Siamese Networks for Visual Object Tracking." ECCV (2018). 
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf)]
-  [[code](https://github.com/foolwood/DaSiamRPN)] 
+  [[code](https://github.com/foolwood/DaSiamRPN)] **VOT2018-LT Runner-up**:star2:
 
   
 ### Early Long-term Trackers (before 2018)
