@@ -56,6 +56,11 @@
   [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ma_Long-Term_Correlation_Tracking_2015_CVPR_paper.pdf)]
   [[project](https://sites.google.com/site/chaoma99/cvpr15_tracking)]
   [[github](https://github.com/chaoma99/lct-tracker)]
+  
+* **MUSTer:** Zhibin Hong, Zhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, Dacheng Tao.  
+  "MUlti-Store Tracker (MUSTer): a Cognitive Psychology Inspired Approach to Object Tracking." CVPR (2015). 
+  [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hong_MUlti-Store_Tracker_MUSTer_2015_CVPR_paper.pdf)]
+  [[project](https://sites.google.com/site/zhibinhong4131/Projects/muster)]  
  
  * **TLD:** Zdenek Kalal, Krystian Mikolajczyk, Jiri Matas.
   "Tracking-Learning-Detection." TPAMI (2012).
