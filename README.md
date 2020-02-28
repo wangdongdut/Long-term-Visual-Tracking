@@ -15,7 +15,7 @@
   [[paper](https://arxiv.org/pdf/1911.12836.pdf)] 
   
 * **DAL:** Yanlin Qian, Alan Lukežič, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Mata <br /> 
-  "DAL -- A Deep Depth-aware Long-term Tracker" ArXiv (2019).
+  "DAL - A Deep Depth-aware Long-term Tracker" ArXiv (2019).
   [[paper](https://arxiv.org/pdf/1912.00660.pdf)] **`RGB-D Long-term`**
  
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
