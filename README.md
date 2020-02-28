@@ -22,6 +22,10 @@
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/iiau-tracker/SPLT)]
   
+* **flow_MDNet_RPN:** Han Wu, Xueyuan Yang, Yong Yang, Guizhong Liu. 
+  "Flow Guided Short-term Trackers with Cascade Detection for Long-term Tracking." ICCVW (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wu_Flow_Guided_Short-Term_Trackers_with_Cascade_Detection_for_Long-Term_Tracking_ICCVW_2019_paper.pdf)] 
+  
 * **MBMD:** Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu. 
   "Learning regression and verification networks for long-term visual tracking." Arxiv (2018).
   [[paper](https://arxiv.org/abs/1809.04320)]
