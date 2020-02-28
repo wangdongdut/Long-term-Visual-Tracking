@@ -80,7 +80,7 @@
   [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
   [[project](https://cis.temple.edu/lasot/)]
   
-  
+ 
 ## Others:   
 
 * **3R:** Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
