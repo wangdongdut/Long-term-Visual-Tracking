@@ -14,8 +14,8 @@
   
 * **DAL:** Yanlin Qian, Alan Lukežič, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Mata <br /> 
   "DAL -- A Deep Depth-aware Long-term Tracker" ArXiv (2019).
-  [[paper](https://arxiv.org/pdf/1912.00660.pdf)] **RGB-D Long-term**
-
+  [[paper](https://arxiv.org/pdf/1912.00660.pdf)] **`RGB-D Long-term`**
+ 
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
   "GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
   [[paper](https://arxiv.org/abs/1912.08531)]
@@ -33,7 +33,7 @@
 * **OTR:** Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. <br />
   "Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters." CVPR (2019). 
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)]
-  [[code](https://github.com/ugurkart/OTR)] **RGB-D Long-term**
+  [[code](https://github.com/ugurkart/OTR)] **`RGB-D Long-term`**
   
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. 
   "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).
@@ -127,7 +127,7 @@
 * **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
   "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
-  [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]  
+  [[project](https://oxuva.github.io/long-term-tracking-benchmark/)] **`RGB-D Long-term`**  
   
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. <br />
   "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
