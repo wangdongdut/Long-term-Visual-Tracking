@@ -24,7 +24,8 @@
 * **MBMD:** Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu. 
   "Learning regression and verification networks for long-term visual tracking." Arxiv (2018).
   [[paper](https://arxiv.org/abs/1809.04320)]
-  [[code](https://github.com/xiaobai1217/MBMD)]  
+  [[code](https://github.com/xiaobai1217/MBMD)]
+  :star2: **VOT2018-LT Winner**
   
 ### Early Long-term Trackers (before 2018)
 
