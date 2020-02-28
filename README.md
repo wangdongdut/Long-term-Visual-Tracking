@@ -85,7 +85,12 @@
   "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
   [[paper](https://arxiv.org/pdf/1803.09502.pdf)]
   [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]
-
+  
+* **TLP:** Abhinav Moudgil, Vineet Gandhi. <br />
+  "Long-term Visual Object Tracking Benchmark." ACCV (2018).
+  [[paper](https://arxiv.org/abs/1712.01358)]
+  [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]  
+  
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. <br />
   "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2018). 
   [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
