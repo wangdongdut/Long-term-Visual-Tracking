@@ -100,7 +100,7 @@
 
 ## Benchmark
 
-* **OxUvA long-term dataset+benchmark:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves. <br />
+* **OxUvA:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves. <br />
   "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
   [[paper](https://arxiv.org/pdf/1803.09502.pdf)]
   [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]
