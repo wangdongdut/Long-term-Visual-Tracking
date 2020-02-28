@@ -26,6 +26,11 @@
   "Flow Guided Short-term Trackers with Cascade Detection for Long-term Tracking." ICCVW (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wu_Flow_Guided_Short-Term_Trackers_with_Cascade_Detection_for_Long-Term_Tracking_ICCVW_2019_paper.pdf)] 
   
+* **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. 
+  "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)]
+  [[code](https://github.com/STVIR/pysot)]
+  
 * **MBMD:** Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu. <br />
   "Learning regression and verification networks for long-term visual tracking." Arxiv (2018).
   [[paper](https://arxiv.org/abs/1809.04320)]
