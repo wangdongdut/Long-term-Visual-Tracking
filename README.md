@@ -47,7 +47,8 @@
 * **SiamDW:** Zhipeng Zhang, Houwen Peng. <br /> 
   "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019). 
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)]
-  [[code](https://github.com/researchmm/SiamDW)] **VOT2019 RGB-D Winner**:star2: "SiamDW_LT" "SiamDW_D"
+  [[code](https://github.com/researchmm/SiamDW)] **VOT2019 RGB-D Winner**:star2: <br />  
+  Denoted as "SiamDW_D" "SiamDW_LT", see the VOT2019 official report
   
 * **FuCoLoT:** Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas and Matej Kristan. <br /> 
   "FuCoLoT - A Fully-Correlational Long-Term Tracker." ACCV (2018). 
