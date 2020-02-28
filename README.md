@@ -133,6 +133,7 @@
   "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.pdf)]
   [[project](https://cis.temple.edu/lasot/)]
+  **`The LaSOT dataset is not a typical long-term dataset. But it is a good choice for connecting long-term and short-term trackers. Usually, short-term trackers drift very easily in the long-term datasets since they have no re-detection module. Long-term trackers also achieve unsatisfactory performance in the short-term datasets, since the tested sequences are often very short and the evaluation criterion pay less attention to the re-detection capability (especially VOT' EAO). LaSOT is a large-scale, long-frame dataset with precision and succuess criterion. Thus, it is a good choice if you want to fairly compare the performance of long-term and short-term trackers in one figure/table.`**
   
 * **UAV20L:** Matthias Mueller, Neil Smith and Bernard Ghanem. <br />
   "A Benchmark and Simulator for UAV Tracking." ECCV (2016).
