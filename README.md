@@ -140,7 +140,7 @@
   [[paper](https://ivul.kaust.edu.sa/Documents/Publications/2016/A%20Benchmark%20and%20Simulator%20for%20UAV%20Tracking.pdf)]
   [[project](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)]
   [[dataset](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]
-  All 20
+  `All 20 videos of UAV20L have been included in the VOT2018LT dataset.`
   
  
 ## Measurement&Discussion:   
