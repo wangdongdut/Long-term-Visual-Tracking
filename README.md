@@ -104,6 +104,10 @@
 
 ## Benchmark
 
+* **VOT:** . [[Visual Object Tracking Challenge](http://www.votchallenge.net/)] <br />
+  [[VOT2019LT](http://www.votchallenge.net/vot2019/)][[Report](http://prints.vicos.si/publications/375) <br />
+  [[VOT2018LT](http://www.votchallenge.net/vot2018/)][[Report](http://prints.vicos.si/publications/365/)]
+
 * **OxUvA:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves. <br />
   "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
   [[paper](https://arxiv.org/pdf/1803.09502.pdf)]
