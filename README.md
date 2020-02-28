@@ -50,11 +50,11 @@
   [[code](https://github.com/researchmm/SiamDW)] **VOT2019 RGB-D Winner**:star2: 
   Denoted as "SiamDW_D" "SiamDW_LT", see the VOT2019 official report
   
-* **FuCoLoT:** Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas and Matej Kristan. <br /> 
-  "FuCoLoT - A Fully-Correlational Long-Term Tracker." ACCV (2018). 
-  [[paper](http://prints.vicos.si/publications/366)]
-  [[code](https://github.com/alanlukezic/fucolot)] 
-  
+* **DaSiam_LT:** Zheng Zhu, Qiang Wang, Bo Li, Wei Wu, Junjie Yan, Weiming Hu. <br /> 
+  "Distractor-Aware Siamese Networks for Visual Object Tracking." ECCV (2018). 
+  [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf)]
+  [[code](https://github.com/foolwood/DaSiamRPN)] 
+
   
 ### Early Long-term Trackers (before 2018)
 
