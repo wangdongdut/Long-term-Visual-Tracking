@@ -112,7 +112,7 @@
   
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. <br />
   "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
-  [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_LaSOT_A_High-Quality_Benchmark_for_Large-Scale_Single_Object_Tracking_CVPR_2019_paper.pdf)]
   [[project](https://cis.temple.edu/lasot/)]
   
  
