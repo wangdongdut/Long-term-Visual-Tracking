@@ -3,8 +3,8 @@
 ### Recent Long-term Trackers
 
 
-* **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.
-  "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020). ** <br />
+* **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
+  **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
   [[paper]()]
   [[code]()]
   **VOT2019-LT Winner**:star2: 
