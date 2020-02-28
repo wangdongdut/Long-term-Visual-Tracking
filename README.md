@@ -2,6 +2,11 @@
 
 ### Recent Long-term Trackers
 
+* **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang <br />
+  "'High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
+  [[paper]()]
+  [[code]()]
+
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang <br />
   "'GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
   [[paper](https://arxiv.org/abs/1912.08531)]
