@@ -30,6 +30,11 @@
   "Flow Guided Short-term Trackers with Cascade Detection for Long-term Tracking." ICCVW (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wu_Flow_Guided_Short-Term_Trackers_with_Cascade_Detection_for_Long-Term_Tracking_ICCVW_2019_paper.pdf)] 
   
+* **OTR:** Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. <br />
+  "Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters." CVPR (2019). 
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)]
+  [[code](https://github.com/ugurkart/OTR)] **RGB-D Long-term**
+  
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. 
   "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)]
