@@ -6,6 +6,10 @@
   "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
   [[paper]()]
   [[code]()]
+  
+* **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.
+  "Siam R-CNN: Visual Tracking by Re-Detection." arXiv (2019).
+  [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
 
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang.
   "GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
