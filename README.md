@@ -32,12 +32,17 @@
   [[code](https://github.com/xiaobai1217/MBMD)]
   **VOT2018-LT Winner**:star2: 
   
-### Early Long-term Trackers (before 2018)
-
+* **MMLT:** Hankyeol Lee, Seokeon choi, Changick Kim. <br /> 
+  "A Memory Model based on the Siamese Network for Long-term Tracking." ECCVW (2018). 
+  [[paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Lee_A_Memory_Model_based_on_the_Siamese_Network_for_Long-term_ECCVW_2018_paper.pdf)]
+  [[code](https://github.com/bismex/MMLT)] 
+ 
 * **FuCoLoT:** Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas and Matej Kristan. <br /> 
   "FuCoLoT - A Fully-Correlational Long-Term Tracker." ACCV (2018). 
   [[paper](http://prints.vicos.si/publications/366)]
-  [[code](https://github.com/alanlukezic/fucolot)]
+  [[code](https://github.com/alanlukezic/fucolot)] 
+  
+### Early Long-term Trackers (before 2018)
 
 * **PTAV:** Heng Fan, Haibin Ling. <br />
   "Parallel Tracking and Verifying: A Framework for Real-Time and High Accuracy Visual Tracking." ICCV (2017). 
