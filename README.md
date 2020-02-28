@@ -160,7 +160,8 @@
 
 ## Resources:
 
-* **"Paper, Benchmark, Researchers, Teams" maintained by Qiang Wang:** https://github.com/foolwood/benchmark_results
+* **"Paper, Benchmark, Researchers, Teams" maintained by Qiang Wang:** <br /> 
+  https://github.com/foolwood/benchmark_results
 
 * **"pysot [SiamRPN++, SiamMask, DaSiamRPN, SiamRPN]":** <br /> 
   https://github.com/STVIR/pysot
