@@ -16,7 +16,12 @@
   "Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/iiau-tracker/SPLT)]
-
+  
+* **MBMD:** Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu. 
+  "Learning regression and verification networks for long-term visual tracking." Arxiv (2018).
+  [[paper](https://arxiv.org/abs/1809.04320)]
+  [[code](https://github.com/xiaobai1217/MBMD)]  
+  
 ### Early Long-term Trackers (before 2018)
 
 * **PTAV:** Heng Fan and Haibin Ling. 
