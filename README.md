@@ -156,8 +156,8 @@
   [[paper](https://arxiv.org/abs/1804.07056)]
   
 * Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
-  "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." ArXiv (2019). 
-  [[paper](https://arxiv.org/pdf/1910.12273)]
+  "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." WACV (2020). 
+  [[paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Karthik_Exploring_3_Rs_of_Long-term_Tracking_Redetection_Recovery_and_Reliability_WACV_2020_paper.pdf)]
 
 
 ## Resources:
