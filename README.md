@@ -102,6 +102,11 @@
   [[paper](https://zpascal.net/cvpr2015/Nebehay_Clustering_of_Static-Adaptive_2015_CVPR_paper.pdf)]
   [[project](http://www.gnebehay.com/cmt)]  
   [[github](https://github.com/gnebehay/CMT)]
+  
+* **SPL:** James Steven Supančič III, Deva Ramanan. <br />
+  "Self-paced Learning for Long-term Tracking." CVPR (2013). 
+  [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Supancic_III_Self-Paced_Learning_for_2013_CVPR_paper.pdf)]
+  [[github](https://github.com/jsupancic/SPLTT-Release)]  
  
  * **TLD:** Zdenek Kalal, Krystian Mikolajczyk, Jiri Matas. <br />
   "Tracking-Learning-Detection." TPAMI (2012).
