@@ -129,7 +129,7 @@
 * **TLP:** Abhinav Moudgil, Vineet Gandhi. <br />
   "Long-term Visual Object Tracking Benchmark." ACCV (2018).
   [[paper](https://arxiv.org/abs/1712.01358)]
-  [[project](https://oxuva.github.io/long-term-tracking-benchmark/)] 
+  [[project](https://amoudgl.github.io/tlp/)] 
   
 * **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
   "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
