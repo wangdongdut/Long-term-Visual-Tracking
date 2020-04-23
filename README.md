@@ -182,12 +182,12 @@
   
   ## Benchmark Results:
   
-  * **VOT2019:
+  * **VOT2019:**
   
-  * **VOT2018:
+  * **VOT2018:**
   
-  * **OxUvA:
+  * **OxUvA:**
   
-  * **TLP:
+  * **TLP:**
   
-  * **LaSOT:
+  * **LaSOT:**
