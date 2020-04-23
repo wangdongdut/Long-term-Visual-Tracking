@@ -180,3 +180,14 @@
   https://github.com/visionml/pytracking
   
   
+  ## Benchmark Results:
+  
+  * **VOT2019:
+  
+  * **VOT2018:
+  
+  * **OxUvA:
+  
+  * **TLP:
+  
+  * **LaSOT:
