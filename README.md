@@ -14,6 +14,7 @@
   "Siam R-CNN: Visual Tracking by Re-Detection." ArXiv (2019).
   [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
   [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
+  [[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
   
 * **DAL:** Yanlin Qian, Alan Lukežič, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Mata <br /> 
   "DAL - A Deep Depth-aware Long-term Tracker" ArXiv (2019).
