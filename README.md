@@ -194,7 +194,7 @@
   
 * **LaSOT:**
 
-| LaSOT            | Success Score    | Precision Score |
-|:-----------   |:----------------:|:----------------:|
-| Dimp50       | 0.568            |      -       |
-| Dimp50+MU(k=1)       | 0.594            |      -       |
+     | LaSOT            | Success Score    | Precision Score |
+     |:-----------   |:----------------:|:----------------:|
+     | Dimp50       | 0.568            |      -       |
+     | Dimp50+MU(k=1)       | 0.594            |      -       |
