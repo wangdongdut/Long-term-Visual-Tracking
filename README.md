@@ -203,10 +203,10 @@
 
      | Datasets       | #videos    | #frames |
      |:-----------    |:----------------:|:----------------:|
-     | [[OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)]       | 100            |      -       |
+     | [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      -       |
      | TC-128         | 128            |      -       |
      | NUS-PRO        | 365            |      -       |    
      | UAV123         | 123            |      -       |        
      | NfS            | 100            |      -       |       
      | GOT-10k        | 10,000         |      -       |   
-     | LaSOT          | 1,400          |      -       |  
+     | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400          |      -       |  
