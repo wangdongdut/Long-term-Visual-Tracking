@@ -203,8 +203,8 @@
 
      | Datasets       | #videos    | #total/min/max/average frames|
      |:-----------    |:----------------:|:----------------:|
-     | [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K       |
-     | [TC-128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128            |      55K       |
+     | [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K/71/3,872/590       |
+     | [TC-128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128            |      55K/71/3,872/429   |
      | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K      |    
      | [UAV123](https://uav123.org/)                   | 123            |      113K      |        
      | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      XXXK      |
