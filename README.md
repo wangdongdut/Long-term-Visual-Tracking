@@ -211,3 +211,6 @@
      | [NfS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |       
      | [GOT-10k](http://got-10k.aitestunion.com/)      | 10,000         |      1.5M      |   
      | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400          |      3.52M/1,000/11,397/2,506     |  
+     | [VOT2019-LT/VOT2020-LT](https://www.votchallenge.net/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |  
+     | [TLP](https://amoudgl.github.io/tlp/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |  
+     | [OxUvA](https://oxuva.github.io/long-term-tracking-benchmark/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |
