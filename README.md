@@ -201,7 +201,7 @@
 ## All Tracking Datasets:
 * **List:**
 
-     | Datasets       | #videos    | #frames |
+     | Datasets       | #videos    | #total/min/max/average frames|
      |:-----------    |:----------------:|:----------------:|
      | [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K       |
      | [TC-128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128            |      55K       |
