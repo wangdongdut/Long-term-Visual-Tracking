@@ -207,7 +207,7 @@
      | [TC-128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128            |      55K/71/3,872/429   |
      | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |    
      | [UAV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |        
-     | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      XXXK      |
+     | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |
      | [NfS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |       
      | [GOT-10k](http://got-10k.aitestunion.com/)      | 10,000         |      1.5M      |   
      | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400          |      3.52M/1,000/11,397/2,506     |  
