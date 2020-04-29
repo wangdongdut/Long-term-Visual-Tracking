@@ -196,7 +196,7 @@
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.648  |  4.7 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | PrDiMP50 (CVPR20)         | 0.598  |  30 (Unkown GPU)  |
-     | **LTMU (CVPR20)**         | 0.572  |  13 (RTX 2080Ti)  |
+     | **LTMU (CVPR20)**         | 0.572  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | Dimp50 (ICCV19)           | 0.568  |  43 (GTX 1080)    |
      | SiamAttn (CVPR20)         | 0.560  |  45 (RTX 2080Ti)  |
      | SiamFC++GoogLeNet (AAAI20)| 0.544  |  90 (RTX 2080Ti)  |
