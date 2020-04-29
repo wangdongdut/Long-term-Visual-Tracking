@@ -195,7 +195,7 @@
      | LaSOT                     | Success Score    | speed (fps) |
      |:-----------               |:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.648            |      -       |
-     | PrDiMP50 (CVPR20)         | 0.598            |      -       |
+     | PrDiMP50 (CVPR20)         | 0.598            |      30 (unkown GPU       |
      | LTMU (CVPR20)             | 0.572            |      13 (RTX 2080Ti)      |
      | Dimp50 (ICCV19)           | 0.568            |      -       |
      | SiamAttn (CVPR20)         | 0.560            |      -       |
