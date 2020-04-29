@@ -205,8 +205,8 @@
      | ATOM (CVPR19)             | 0.515  |  -       |   
      | SiamBAN (CVPR20)          | 0.514  |  40 (GTX 1080Ti)  |    [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
      | SiamRPN++ (CVPR19)        | 0.496  |  -       |  
-     | ROAM++ (CVPR20)           | 0.447  |  20 (RTX2080)|  [Paper](https://arxiv.org/pdf/1907.12006.pdf)/[Code](https://github.com/skyoung/ROAM) |
-     | **SPLT (ICCV19)**         | 0.426  |  -       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
+     | ROAM++ (CVPR20)           | 0.447  |  20 (RTX 2080)|  [Paper](https://arxiv.org/pdf/1907.12006.pdf)/[Code](https://github.com/skyoung/ROAM) |
+     | **SPLT (ICCV19)**         | 0.426  |  25.7 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
      | MDNet (CVPR16)            | 0.397  |  -       |     
 
 
