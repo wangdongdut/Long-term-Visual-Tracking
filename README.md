@@ -204,7 +204,8 @@
      | GlobalTrack (AAAI20)      | 0.521  |  6 (GTX TitanX)   |
      | ATOM (CVPR19)             | 0.515  |  -       |   
      | SiamBAN (CVPR20)          | 0.514  |  40 (GTX 1080Ti)  |    [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
-     | SiamRPN++ (CVPR19)        | 0.496  |  -       |     
+     | SiamRPN++ (CVPR19)        | 0.496  |  -       |  
+     | ROAM++ (CVPR20)           | 0.447  |  20 (RTX2080)|  [Paper](https://arxiv.org/pdf/1907.12006.pdf)/[Code](https://github.com/skyoung/ROAM) |
      | **SPLT (ICCV19)**         | 0.426  |  -       |
      | MDNet (CVPR16)            | 0.397  |  -       |     
 
