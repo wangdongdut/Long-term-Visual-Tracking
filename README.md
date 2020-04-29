@@ -204,7 +204,8 @@
      | GlobalTrack (AAAI20)      | 0.521            |      6 (GTX TitanX)       |
      | ATOM (CVPR19)             | 0.515            |      -       |   
      | SiamBAN (CVPR20)          | 0.514            |      -       |      
-     | SiamRPN++ (CVPR19)        | 0.496            |      -       |      
+     | SiamRPN++ (CVPR19)        | 0.496            |      -       |     
+     | SPLT (ICCV19)             | 0.426            |      -       |
      | MDNet (CVPR16)            | 0.397            |      -       |     
 
 
