@@ -194,6 +194,7 @@
 
      | LaSOT            | Success Score    | Precision Score |
      |:-----------      |:----------------:|:----------------:|
+     | Siam R-CNN       | 0.648            |      -       |
      | PrDiMP50         | 0.598            |      -       |
      | LTMU             | 0.572            |      -       |
      | Dimp50           | 0.568            |      -       |
