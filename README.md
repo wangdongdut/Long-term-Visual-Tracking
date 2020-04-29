@@ -203,8 +203,7 @@
      | MAML-FCOS (CVPR20)        | 0.523  |  42 (NVIDIA P100) |
      | GlobalTrack (AAAI20)      | 0.521  |  6 (GTX TitanX)   |
      | ATOM (CVPR19)             | 0.515  |  -       |   
-     | SiamBAN (CVPR20)          | 0.514  |  40 (GTX 1080Ti)  |   
-     [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
+     | SiamBAN (CVPR20)          | 0.514  |  40 (GTX 1080Ti)  |    [Paper](https://arxiv.org/pdf/2003.06761.pdf)/[Code](https://github.com/hqucv/siamban) |  
      | SiamRPN++ (CVPR19)        | 0.496  |  -       |     
      | **SPLT (ICCV19)**         | 0.426  |  -       |
      | MDNet (CVPR16)            | 0.397  |  -       |     
