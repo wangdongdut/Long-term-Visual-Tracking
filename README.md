@@ -194,7 +194,7 @@
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
-     | Siam R-CNN (CVPR20)       | 0.648  |  4.7 (Tesla V100) |
+     | Siam R-CNN (CVPR20)       | 0.648  |  4.7 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | PrDiMP50 (CVPR20)         | 0.598  |  30 (Unkown GPU)  |
      | **LTMU (CVPR20)**         | 0.572  |  13 (RTX 2080Ti)  |
      | Dimp50 (ICCV19)           | 0.568  |  43 (GTX 1080)    |
