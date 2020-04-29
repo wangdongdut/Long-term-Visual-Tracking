@@ -198,7 +198,8 @@
      | PrDiMP50 (CVPR20)         | 0.598            |      -       |
      | LTMU (CVPR20)             | 0.572            |      -       |
      | Dimp50 (ICCV19)           | 0.568            |      -       |
-     | SiamAttn (CVPR20)         | 0.560
+     | SiamAttn (CVPR20)         | 0.560            |      -       |
+     | SiamFC++GoogLeNet (AAAI20)| 0.544            |      90 (NVIDIA RTX 2080Ti GPU)      |
      | MAML-FCOS (CVPR20)        | 0.523            |      -       |
      | ATOM (CVPR19)             | 0.515            |      -       |   
      | SiamBAN (CVPR20)          | 0.514            |      -       |      
