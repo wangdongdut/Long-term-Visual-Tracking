@@ -187,6 +187,9 @@
 * **VOT2018-LT:**
 
 * **OxUvA:**
+     | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | SiamFC+R (ECCV18)         | 0.454  |  52 (Unkown GPU) |   [Paper](https://arxiv.org/pdf/1803.09502.pdf)/[Code](https://github.com/oxuva/long-term-tracking-benchmark) |
 
 * **TLP:**
   
