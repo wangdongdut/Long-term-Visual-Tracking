@@ -196,7 +196,7 @@
      |:-----------               |:----------------:|:----------------:|
      | Siam R-CNN (CVPR20)       | 0.648            |      -       |
      | PrDiMP50 (CVPR20)         | 0.598            |      -       |
-     | LTMU (CVPR20)             | 0.572            |      -       |
+     | LTMU (CVPR20)             | 0.572            |      13 (RTX 2080Ti)      |
      | Dimp50 (ICCV19)           | 0.568            |      -       |
      | SiamAttn (CVPR20)         | 0.560            |      -       |
      | SiamFC++GoogLeNet (AAAI20)| 0.544            |      90 (RTX 2080Ti)      |
