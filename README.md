@@ -176,7 +176,7 @@
 * **"pysot [SiamRPN++, SiamMask, DaSiamRPN, SiamRPN]":** <br /> 
   https://github.com/STVIR/pysot
 
-* **"pytracking [DIMP, ATOM]":** <br /> 
+* **"pytracking [PrDIMP, SuperDIMP, DIMP, ATOM]":** <br /> 
   https://github.com/visionml/pytracking
   
   
@@ -199,6 +199,16 @@
      * SiamFC+R is the best tracker in the original [OxUvA](https://arxiv.org/pdf/1803.09502.pdf) paper.
 
 * **TLP:**
+
+     | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | Siam R-CNN (CVPR20)       | 0.648  |  5 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | **LTMU (CVPR20)**         | 0.571  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
+     | GlobalTrack (AAAI20)      | 0.520  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |
+     | **SPLT (ICCV19)**         | 0.416  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
+     | MDNet (CVPR16)            | 0.372  |  5 (GTX 1080Ti)       | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) |
+
+     * MDNet is the best tracker in the original [TLP](https://amoudgl.github.io/tlp/) paper.
   
 * **LaSOT:**
 
