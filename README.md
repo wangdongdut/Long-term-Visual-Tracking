@@ -189,6 +189,7 @@
 * **OxUvA:**
      | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
+     | **LTMU (CVPR20)**         | 0.572  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | SiamFC+R (ECCV18)         | 0.454  |  52 (Unkown GPU) |   [Paper](https://arxiv.org/pdf/1803.09502.pdf)/[Code](https://github.com/oxuva/long-term-tracking-benchmark) |
 
      * SiamFC+R is the best tracker in the original [OxUvA](https://arxiv.org/pdf/1803.09502.pdf) paper.
