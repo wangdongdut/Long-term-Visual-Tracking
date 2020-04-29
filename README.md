@@ -210,7 +210,7 @@
      | **SPLT (ICCV19)**         | 0.426  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
      | MDNet (CVPR16)            | 0.397  |  5 (GTX 1080Ti)       | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) |
 
-    MDNet is the best tracker in the original LaSOT paper. 
+    * MDNet is the best tracker in the original LaSOT paper. 
 
 ## All Tracking Datasets:
 * **List:**
