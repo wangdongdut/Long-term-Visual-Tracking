@@ -196,7 +196,9 @@
      | CooSiam                   | 0.508  | N/A  |   N/A |    
      | ASINT                     | 0.505  | N/A  |   N/A |     
      | FuCoLoT                   | 0.411  | N/A  |   N/A |
-  
+ 
+      * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2019_LT](http://prints.vicos.si/publications/375/) report.
+ 
 * **VOT2018-LT:**
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
@@ -208,7 +210,7 @@
      | **MBMD (Arxiv)**          | 0.610  |  4 (GTX 1080Ti)   |   [Paper](https://arxiv.org/abs/1809.0432)/[Code](https://github.com/xiaobai1217/MBMD) |          
      | DaSiam_LT (ECCV18)        | 0.607  |  N/A              |   [Paper](https://arxiv.org/pdf/1803.09502.pdf)/[Code](https://github.com/oxuva/long-term-tracking-benchmark) |
 
-     * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2018_LT](https://arxiv.org/pdf/1803.09502.pdf) report.
+     * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2018_LT](http://prints.vicos.si/publications/365/) report.
 
 * **OxUvA:**
      | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
