@@ -183,8 +183,23 @@
 ## Benchmark Results:
   
 * **VOT2019-LT:**
+
+
+
+
   
 * **VOT2018-LT:**
+
+     | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | **LTMU (CVPR20)**         | 0.751  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
+     | Siam R-CNN (CVPR20)       | 0.668  |  5 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |        
+     | **SPLT (ICCV19)**         | 0.622  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | 
+     | GlobalTrack (AAAI20)      | 0.603  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |    
+     | MBMD (Arxiv)              | 0.610  |  4 (GTX 1080Ti)   |   [Paper](https://arxiv.org/abs/1809.0432)/[Code](https://github.com/xiaobai1217/MBMD) |          
+     | DaSiam_LT (ECCV18)         | 0.607  |  52 (Unkown GPU) |   [Paper](https://arxiv.org/pdf/1803.09502.pdf)/[Code](https://github.com/oxuva/long-term-tracking-benchmark) |
+
+     * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2018_LT](https://arxiv.org/pdf/1803.09502.pdf) report.
 
 * **OxUvA:**
      | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
