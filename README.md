@@ -261,7 +261,7 @@
 * **List:**
 
      | Datasets       | #videos    | #total/min/max/average frames|Absent Label| 
-     |:-----------    |:----------------:|:----------------:|
+     |:-----------    |:----------------:|:----------------:|:----------------:|
      | [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K/71/3,872/590       |  No | 
      | [TC-128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K/71/3,872/429   |  No |
      | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |  No |    
