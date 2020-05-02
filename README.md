@@ -196,8 +196,8 @@
      | CooSiam                   | 0.508  | N/A  |   N/A |    
      | ASINT                     | 0.505  | N/A  |   N/A |     
      | FuCoLoT                   | 0.411  | N/A  |   N/A |
- 
-      * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2019_LT](http://prints.vicos.si/publications/375/) report.
+     
+     * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2019_LT](http://prints.vicos.si/publications/375/) report.
  
 * **VOT2018-LT:**
 
