@@ -276,3 +276,6 @@
      | [VOT2019-LT/VOT2020-LT](https://www.votchallenge.net/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |  
      | [TLP](https://amoudgl.github.io/tlp/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |  
      | [OxUvA](https://oxuva.github.io/long-term-tracking-benchmark/)          | 366 (dev-200/test-166)         |      XXXX/XXXX/XXXX/XXXX     |
+
+     * [OTB-2013](http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html) is a subset of OTB-2015. 
+     * [UAV-20L](https://uav123.org/) has been included in VOT2019-LT. VOT2018-LT is a subset of VOT2019-LT. VOT2019-LT and VOT2020-LT are same. 
