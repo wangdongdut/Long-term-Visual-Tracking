@@ -184,6 +184,23 @@
   
 * **VOT2019-LT:**
 
+     | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | **LTMU (CVPR20)**         | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
+     | Siam R-CNN (CVPR20)       | 0.668  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+
+
+Tracker F-score Pr Re
+LTMU(Ours) 0.697 0.721 0.674
+CLGS 0.674 0.739 0.619
+SiamDW LT 0.665 0.697 0.636
+mbdet 0.567 0.609 0.530
+SiamRPNsLT 0.556 0.749 0.443
+Siamfcos-LT 0.520 0.493 0.549
+CooSiam 0.508 0.482 0.537
+ASINT 0.505 0.517 0.494
+FuCoLoT 0.411 0.507 0.346
+
 
 
 
@@ -192,12 +209,12 @@
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
-     | **LTMU (CVPR20)**         | 0.751  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
-     | Siam R-CNN (CVPR20)       | 0.668  |  5 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |        
-     | **SPLT (ICCV19)**         | 0.622  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | 
-     | GlobalTrack (AAAI20)      | 0.603  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |    
+     | **LTMU (CVPR20)**         | 0.690  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
+     | Siam R-CNN (CVPR20)       | 0.668  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
+     | SiamRPN++                 | 0.629  |  N/A              |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
+     | **SPLT (ICCV19)**         | 0.622  |  26 (GTX 1080Ti)  |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | 
      | **MBMD (Arxiv)**          | 0.610  |  4 (GTX 1080Ti)   |   [Paper](https://arxiv.org/abs/1809.0432)/[Code](https://github.com/xiaobai1217/MBMD) |          
-     | DaSiam_LT (ECCV18)        | 0.607  |  52 (Unkown GPU) |   [Paper](https://arxiv.org/pdf/1803.09502.pdf)/[Code](https://github.com/oxuva/long-term-tracking-benchmark) |
+     | DaSiam_LT (ECCV18)        | 0.607  |  N/A              |   [Paper](https://arxiv.org/pdf/1803.09502.pdf)/[Code](https://github.com/oxuva/long-term-tracking-benchmark) |
 
      * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2018_LT](https://arxiv.org/pdf/1803.09502.pdf) report.
 
