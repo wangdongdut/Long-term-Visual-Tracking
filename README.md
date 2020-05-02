@@ -182,7 +182,7 @@
   
 ## Benchmark Results:
   
-* **VOT2019-LT:**
+* **VOT2019-LT/VOT2020-LT:**
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
