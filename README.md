@@ -187,23 +187,15 @@
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | **LTMU (CVPR20)**         | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
-     | Siam R-CNN (CVPR20)       | 0.668  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
-
-
-Tracker F-score Pr Re
-LTMU(Ours) 0.697 0.721 0.674
-CLGS 0.674 0.739 0.619
-SiamDW LT 0.665 0.697 0.636
-mbdet 0.567 0.609 0.530
-SiamRPNsLT 0.556 0.749 0.443
-Siamfcos-LT 0.520 0.493 0.549
-CooSiam 0.508 0.482 0.537
-ASINT 0.505 0.517 0.494
-FuCoLoT 0.411 0.507 0.346
-
-
-
-
+     | LT_DSE                    | 0.695  | N/A  |   N/A |
+     | CLGS                      | 0.674  | N/A  |   N/A |
+     | SiamDW_LT                 | 0.665  | N/A  |   N/A |
+     | mbdet                     | 0.567  | N/A  |   N/A |    
+     | SiamRPNsLT                | 0.556  | N/A  |   N/A |     
+     | Siamfcos-LT               | 0.520  | N/A  |   N/A |
+     | CooSiam                   | 0.508  | N/A  |   N/A |    
+     | ASINT                     | 0.505  | N/A  |   N/A |     
+     | FuCoLoT                   | 0.411  | N/A  |   N/A |
   
 * **VOT2018-LT:**
 
