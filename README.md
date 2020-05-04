@@ -225,6 +225,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | **MBMD (Arxiv)**          | 0.544  |  4 (GTX 1080Ti)   |   [Paper](https://arxiv.org/abs/1809.0432)/[Code](https://github.com/xiaobai1217/MBMD) |          
      | SiamFC+R (ECCV18)         | 0.454  |  52 (Unkown GPU) |   [Paper](https://arxiv.org/pdf/1803.09502.pdf)/[Code](https://github.com/oxuva/long-term-tracking-benchmark) |
 
+     * OxUvA Leaderboard: https://competitions.codalab.org/competitions/19529#results
      * SiamFC+R is the best tracker in the original [OxUvA](https://arxiv.org/pdf/1803.09502.pdf) paper.
 
 * **TLP:**
