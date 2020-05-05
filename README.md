@@ -273,7 +273,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | [TB70]()                     | 70           |      XXXX     |  No |          
      | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |  No |
      | [NfS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  No |       
-     | [GOT-10k](http://got-10k.aitestunion.com/)      | 10,000         |      1.5M      |  No |   
+     | [GOT-10k](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-180         |      1.5M      |  No |   
      | | | |   
      | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-280)      |      3.52M/1,000/11,397/2,506 |  Yes |
      | | | |  
