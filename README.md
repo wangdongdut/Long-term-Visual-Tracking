@@ -4,7 +4,6 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ### Recent Long-term Trackers
 
-
 * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
   **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
   [[paper](https://arxiv.org/abs/2004.00305)]
@@ -168,7 +167,6 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
   "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." WACV (2020). 
   [[paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Karthik_Exploring_3_Rs_of_Long-term_Tracking_Redetection_Recovery_and_Reliability_WACV_2020_paper.pdf)]
-
 
 ## Resources:
 
