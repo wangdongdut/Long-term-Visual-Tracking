@@ -7,8 +7,8 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
   **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
   [[paper](https://arxiv.org/abs/2004.00305)]
-  [[code](https://github.com/Daikenan/LTMU)]
-  **VOT2019-LT Winner**:star2: 
+  [[code](https://github.com/Daikenan/LTMU)] <br />
+  :star2:  **VOT2019-LT Winner**,  **VOT2019-LT Winner**
   `This work is an improved version of the VOT2019-LT winner, `[[LT_DSE](https://github.com/Daikenan/LT_DSE)].
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
