@@ -8,7 +8,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)] <br />
-  :star2:  **VOT2019-LT Winner**,  **VOT20XX-LT Winner** <br />
+  **VOT2019-LT Winner**:star2:,  **VOT20XX-LT Winner**:star2: <br />
   `1. This work is an improved version of the VOT2019-LT winner, `[[LT_DSE](https://github.com/Daikenan/LT_DSE)]. <br />
   `2. The baseline version is the VOT20XX-LT winner, `[[LTMU_B](https://github.com/Daikenan/LTMU)].
   
