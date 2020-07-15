@@ -8,8 +8,9 @@ This page focuses on watching the state-of-the-art performance for the long-term
   **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)] <br />
-  :star2:  **VOT2019-LT Winner**,  **VOT2019-LT Winner**
-  `This work is an improved version of the VOT2019-LT winner, `[[LT_DSE](https://github.com/Daikenan/LT_DSE)].
+  :star2:  **VOT2019-LT Winner**,  **VOT20XX-LT Winner** <br />
+  `1. This work is an improved version of the VOT2019-LT winner, `[[LT_DSE](https://github.com/Daikenan/LT_DSE)].
+  `2. The baseline version is the VOT20XX-LT winner, `[[LTMU_B](https://github.com/Daikenan/LTMU)].
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
   "Siam R-CNN: Visual Tracking by Re-Detection." ArXiv (2019).
