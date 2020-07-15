@@ -9,7 +9,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)] <br />
   :star2:  **VOT2019-LT Winner**,  **VOT20XX-LT Winner** <br />
-  `1. This work is an improved version of the VOT2019-LT winner, `[[LT_DSE](https://github.com/Daikenan/LT_DSE)].
+  `1. This work is an improved version of the VOT2019-LT winner, `[[LT_DSE](https://github.com/Daikenan/LT_DSE)]. <br />
   `2. The baseline version is the VOT20XX-LT winner, `[[LTMU_B](https://github.com/Daikenan/LTMU)].
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
