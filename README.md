@@ -1,6 +1,8 @@
 # Long-term Visual Tracking: 
 
-This page focuses on watching the state-of-the-art performance for the long-term tracking task (if you are interested in the short-term tracking task, please visit [here](https://github.com/wangdongdut/Online-Visual-Tracking-SOTA)).
+This page focuses on watching the state-of-the-art performance for the long-term tracking task (if you are interested in the short-term tracking task, please visit **[here](https://github.com/wangdongdut/Online-Visual-Tracking-SOTA)**. 
+
+If you are interested in some resources on Paper Writting (computer vision), please visit **[here](https://github.com/wangdongdut/PaperWriting)**.  
 
 ### Recent Long-term Trackers
 
