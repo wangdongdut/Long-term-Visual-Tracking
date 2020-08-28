@@ -201,7 +201,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | ASINT                     | 0.505  | N/A  |   N/A |     
      | FuCoLoT                   | 0.411  | N/A  |   N/A |
      
-     * Most results are obtained from the original [VOT2019_LT](http://prints.vicos.si/publications/375/) report.
+     * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports.
  
 * **VOT2018-LT:**
 
