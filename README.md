@@ -189,6 +189,8 @@ This page focuses on watching the state-of-the-art performance for the long-term
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | **LTMU (CVPR20)**         | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | LT_DSE                    | 0.695  | N/A  |   N/A |
+     | **LTMU_B (CVPR20)**       | 0.691  | N/A  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) | 
+     | Megtrack                  | 0.687  | N/A  |   N/A |
      | CLGS                      | 0.674  | N/A  |   N/A |
      | SiamDW_LT                 | 0.665  | N/A  |   N/A |
      | **SPLT (ICCV19)**         | 0.587  |  26 (GTX 1080Ti)  |   [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
