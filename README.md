@@ -201,7 +201,8 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | ASINT                     | 0.505  | N/A  |   N/A |     
      | FuCoLoT                   | 0.411  | N/A  |   N/A |
      
-     * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports.
+     * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports. 
+     % Both sequences and settings are same in the VOT2019-LT and VOT2020-LT challenges.  
  
 * **VOT2018-LT:**
 
