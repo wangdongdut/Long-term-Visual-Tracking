@@ -122,7 +122,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 ## Benchmark
 
 * **VOT:** . [[Visual Object Tracking Challenge](http://www.votchallenge.net/)]
-  * [[VOT2020LT](http://www.votchallenge.net/vot2020/)][[Coming Soon](http://www.votchallenge.net/vot2020/)]   
+  * [[VOT2020LT](http://www.votchallenge.net/vot2020/)][[Report](http://prints.vicos.si/publications/384/)]   
   * [[VOT2019LT](http://www.votchallenge.net/vot2019/)][[Report](http://prints.vicos.si/publications/375/)]
   * [[VOT2018LT](http://www.votchallenge.net/vot2018/)][[Report](http://prints.vicos.si/publications/365/)]
 
