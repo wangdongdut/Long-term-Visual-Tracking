@@ -13,7 +13,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   `2. The baseline version is the VOT2020-LT winner, `**[[LTMU_B](https://github.com/Daikenan/LTMU)]**.
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
-  "Siam R-CNN: Visual Tracking by Re-Detection." ArXiv (2019).
+  **"Siam R-CNN: Visual Tracking by Re-Detection." CVPR (2020).**
   [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
   [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
   [[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
