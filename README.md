@@ -19,7 +19,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   [[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
   
 * **DAL:** Yanlin Qian, Alan Lukežič, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Mata <br /> 
-  "DAL - A Deep Depth-aware Long-term Tracker" ArXiv (2019).
+  **"DAL - A Deep Depth-aware Long-term Tracker" ICPR (2020).**   
   [[paper](https://arxiv.org/pdf/1912.00660.pdf)] **`RGB-D Long-term`**
  
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
