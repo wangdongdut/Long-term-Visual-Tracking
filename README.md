@@ -104,7 +104,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * **CMT:** Georg Nebehay, Roman Pflugfelder. <br />
   "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking." CVPR (2015).  <br />
   [[paper](https://zpascal.net/cvpr2015/Nebehay_Clustering_of_Static-Adaptive_2015_CVPR_paper.pdf)]
-  [[project](http://www.gnebehay.com/cmt)][[github](https://github.com/gnebehay/CMT)]
+  [[project](http://www.gnebehay.com/cmt)] [[github](https://github.com/gnebehay/CMT)]
   
 * **SPL:** James Steven Supančič III, Deva Ramanan. <br />
   "Self-paced Learning for Long-term Tracking." CVPR (2013).  <br />
