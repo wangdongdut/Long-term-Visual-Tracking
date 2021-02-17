@@ -79,41 +79,41 @@ This page focuses on watching the state-of-the-art performance for the long-term
 ### Early Long-term Trackers (before 2018)
 
 * **PTAV:** Heng Fan, Haibin Ling. <br />
-  "Parallel Tracking and Verifying: A Framework for Real-Time and High Accuracy Visual Tracking." ICCV (2017). 
+  "Parallel Tracking and Verifying: A Framework for Real-Time and High Accuracy Visual Tracking." ICCV (2017).  <br />
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Parallel_Tracking_and_ICCV_2017_paper.pdf)]
   [[supp](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Fan_Parallel_Tracking_and_ICCV_2017_supplemental.pdf)]
   [[project](http://www.dabi.temple.edu/~hbling/code/PTAV/ptav.htm)]
   [[code](http://www.dabi.temple.edu/~hbling/code/PTAV/serial_ptav_v1.zip)]
 
 * **EBT:** Gao Zhu, Fatih Porikli, Hongdong Li. <br />
-  "Beyond Local Search: Tracking Objects Everywhere with Instance-Specific Proposals." CVPR (2016). 
+  "Beyond Local Search: Tracking Objects Everywhere with Instance-Specific Proposals." CVPR (2016).  <br />
   [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Beyond_Local_Search_CVPR_2016_paper.pdf)]
   [[exe](http://www.votchallenge.net/vot2016/download/02_EBT.zip)]
 
 * **LCT:** Chao Ma, Xiaokang Yang, Chongyang Zhang, Ming-Hsuan Yang. <br />
-  "Long-term Correlation Tracking." CVPR (2015).
+  "Long-term Correlation Tracking." CVPR (2015). <br />
   [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Ma_Long-Term_Correlation_Tracking_2015_CVPR_paper.pdf)]
   [[project](https://sites.google.com/site/chaoma99/cvpr15_tracking)]
   [[github](https://github.com/chaoma99/lct-tracker)]
   
-* **MUSTer:** Zhibin Hong, Zhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, Dacheng Tao.  
-  "MUlti-Store Tracker (MUSTer): a Cognitive Psychology Inspired Approach to Object Tracking." CVPR (2015). 
+* **MUSTer:** Zhibin Hong, Zhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, Dacheng Tao. <br />  
+  "MUlti-Store Tracker (MUSTer): a Cognitive Psychology Inspired Approach to Object Tracking." CVPR (2015).  <br />
   [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hong_MUlti-Store_Tracker_MUSTer_2015_CVPR_paper.pdf)]
   [[project](https://sites.google.com/site/zhibinhong4131/Projects/muster)]  
   
 * **CMT:** Georg Nebehay, Roman Pflugfelder. <br />
-  "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking." CVPR (2015). 
+  "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking." CVPR (2015).  <br />
   [[paper](https://zpascal.net/cvpr2015/Nebehay_Clustering_of_Static-Adaptive_2015_CVPR_paper.pdf)]
   [[project](http://www.gnebehay.com/cmt)]  
   [[github](https://github.com/gnebehay/CMT)]
   
 * **SPL:** James Steven Supančič III, Deva Ramanan. <br />
-  "Self-paced Learning for Long-term Tracking." CVPR (2013). 
+  "Self-paced Learning for Long-term Tracking." CVPR (2013).  <br />
   [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Supancic_III_Self-Paced_Learning_for_2013_CVPR_paper.pdf)]
   [[github](https://github.com/jsupancic/SPLTT-Release)]  
  
  * **TLD:** Zdenek Kalal, Krystian Mikolajczyk, Jiri Matas. <br />
-  "Tracking-Learning-Detection." TPAMI (2012).
+  "Tracking-Learning-Detection." TPAMI (2012). <br />
   [[paper](https://ieeexplore.ieee.org/document/6104061)]
   [[project](https://github.com/zk00006/OpenTLD)]
 
