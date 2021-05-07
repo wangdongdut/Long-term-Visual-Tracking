@@ -5,12 +5,12 @@ This page focuses on watching the state-of-the-art performance for the long-term
 ### Recent Long-term Trackers
 
 * **DMTrack: Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.** <br />
-  **"Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021).** 
+  "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021). 
   [[Paper](https://arxiv.org/abs/2104.12041)]
   [[Project](https://github.com/hqucv/dmtrack)] <br />  
 
 * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
-  **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
+  **High-Performance Long-Term Tracking with Meta-Updater. CVPR (2020).** 
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)] <br />
   **VOT2019-LT Winner**:star2:,  **VOT2020-LT Winner**:star2: <br />
@@ -18,7 +18,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   `2. The baseline version is the VOT2020-LT winner, `**[[LTMU_B](https://github.com/Daikenan/LTMU)]**.
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
-  **"Siam R-CNN: Visual Tracking by Re-Detection." CVPR (2020).**
+  "Siam R-CNN: Visual Tracking by Re-Detection." CVPR (2020).
   [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
   [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
   [[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
