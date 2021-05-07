@@ -34,7 +34,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * **SPLT: Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang.** <br /> 
   **"Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).**
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
-  [[code](https://github.com/iiau-tracker/SPLT)] **An improved (much faster) version of VOT2018-LT Winner**:star2:
+  [[code](https://github.com/iiau-tracker/SPLT)] <br />   **An improved (much faster) version of VOT2018-LT Winner**:star2:
   
 * **flow_MDNet_RPN:** Han Wu, Xueyuan Yang, Yong Yang, Guizhong Liu. <br />
   "Flow Guided Short-term Trackers with Cascade Detection for Long-term Tracking." ICCVW (2019).
