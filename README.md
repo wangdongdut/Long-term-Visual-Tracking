@@ -4,6 +4,11 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ### Recent Long-term Trackers
 
+* **DMTrack: Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.** <br />
+  **"Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021).** 
+  [[Paper](https://arxiv.org/abs/2104.12041)]
+  [[Project](https://github.com/hqucv/dmtrack)] <br />  
+
 * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
   **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
   [[paper](https://arxiv.org/abs/2004.00305)]
