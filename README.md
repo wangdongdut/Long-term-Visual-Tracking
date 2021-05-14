@@ -2,6 +2,11 @@
 
 This page focuses on watching the state-of-the-art performance for the long-term tracking task (if you are interested in the short-term tracking task, please visit **[here](https://github.com/wangdongdut/Online-Visual-Tracking-SOTA)**). If you are also interested in some resources on Paper Writting (computer vision), please visit **[here](https://github.com/wangdongdut/PaperWriting)**.  
 
+### Survey
+
+* 刘畅，陈晓凡，薄纯娟，王栋. "长时视觉目标跟踪前沿简介." CAA-PRMI专委会通讯2021年第1期(总第13期). 
+  [[Paper](https://arxiv.org/abs/2104.12041)] <br />  
+
 ### Recent Long-term Trackers
 
 * **DMTrack: Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.** <br />
