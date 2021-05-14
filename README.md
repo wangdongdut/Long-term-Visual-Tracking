@@ -4,8 +4,8 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ### Survey
 
-* 刘畅，陈晓凡，薄纯娟，王栋. "长时视觉目标跟踪前沿简介." CAA-PRMI专委会通讯2021年第1期(总第13期). 
-  [[Paper](https://arxiv.org/abs/2104.12041)] <br />  
+* 刘畅，陈晓凡，薄纯娟，王栋. "长时视觉目标跟踪前沿简介(https://github.com/wangdongdut/Long-term-Visual-Tracking/blob/master/%5B202105%5D%E9%95%BF%E6%97%B6%E8%A7%86%E8%A7%89%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA%E5%89%8D%E6%B2%BF%E7%AE%80%E4%BB%8B.pdf)." CAA-PRMI专委会通讯2021年第1期(总第13期). 
+  [[PDF](https://github.com/wangdongdut/Long-term-Visual-Tracking/blob/master/%5B202105%5D%E9%95%BF%E6%97%B6%E8%A7%86%E8%A7%89%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA%E5%89%8D%E6%B2%BF%E7%AE%80%E4%BB%8B.pdf)] <br />  
 
 ### Recent Long-term Trackers
 
