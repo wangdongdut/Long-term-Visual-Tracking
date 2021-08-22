@@ -136,9 +136,9 @@ This page focuses on watching the state-of-the-art performance for the long-term
 ### Recent Long-term Trackers
 
 * **STARK: Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.** <br />
-"Learning Spatio-Temporal Transformer for Visual Tracking."  ICCV, 2021. 
-[[Paper](https://arxiv.org/abs/2103.17154)]
-[[Code](https://github.com/researchmm/Stark)] <br /> 
+  "Learning Spatio-Temporal Transformer for Visual Tracking."  ICCV, 2021. 
+  [[Paper](https://arxiv.org/abs/2103.17154)]
+  [[Code](https://github.com/researchmm/Stark)] <br /> 
 
 * **KeepTrack: Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.** <br />
   "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021). 
@@ -162,7 +162,12 @@ This page focuses on watching the state-of-the-art performance for the long-term
   "Siam R-CNN: Visual Tracking by Re-Detection." CVPR (2020).
   [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
   [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
-  [[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
+  [[project](https://www.vision.rwth-aachen.de/page/siamrcnn)] 
+  
+* **TACT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. <br />
+  "Visual Tracking by TridentAlign and Context Embeddin." ACCV (2020).
+  [[paper](https://arxiv.org/pdf/2007.06887.pdf)]
+  [[code](https://github.com/JanghoonChoi/TACT)]
   
 * **DAL:** Yanlin Qian, Alan Lukežič, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Mata <br /> 
   "DAL - A Deep Depth-aware Long-term Tracker" ICPR (2020).   [[paper](https://arxiv.org/pdf/1912.00660.pdf)] **`RGB-D Long-term`**
