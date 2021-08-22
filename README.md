@@ -61,7 +61,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   [[code](https://github.com/STVIR/pysot)]
   
 * **MBMD: Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu.** <br />
-  **"Learning regression and verification networks for long-term visual tracking." Arxiv (2018).**
+  **"Learning regression and verification networks for long-term visual tracking." Arxiv (2018).** <br />
   [[paper](https://arxiv.org/abs/1809.04320)]
   [[code](https://github.com/xiaobai1217/MBMD)]
   [[Journal Version](https://link.springer.com/article/10.1007/s11263-021-01487-3)]
