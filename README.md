@@ -82,9 +82,9 @@ This page focuses on watching the state-of-the-art performance for the long-term
     |:-----------               |:----------------:|:----------------:|:----------------:|
     |  **ATCAIS**:star2:        |   |   |  [Code](https://github.com/tangjiuqi097/ATCAIS)  |
     
-* **VOT2018-LT:**
+* ~~**VOT2018-LT:**~~
 
-     | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
+     ~~| Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | **LTMU (CVPR20)**         | 0.690  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | Siam R-CNN (CVPR20)       | 0.668  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
@@ -92,10 +92,10 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | SiamRPN++                 | 0.629  |  35 (Titan XP)    |   [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/STVIR/pysot) |
      | **SPLT (ICCV19)**         | 0.622  |  26 (GTX 1080Ti)  |   [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | 
      | **MBMD (Arxiv)**          | 0.610  |  4 (GTX 1080Ti)   |   [Paper](https://arxiv.org/abs/1809.0432)/[Code](https://github.com/xiaobai1217/MBMD) |          
-     | DaSiam_LT (ECCV18)        | 0.607  |  110 (TITAN X)    |   [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf)/[Code](https://github.com/foolwood/DaSiamRPN) |
+     | DaSiam_LT (ECCV18)        | 0.607  |  110 (TITAN X)    |   [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf)/[Code](https://github.com/foolwood/DaSiamRPN) |~~
 
-     * MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2018_LT](http://prints.vicos.si/publications/365/) report.    
-     * VOT2018-LT is a subset of VOT2019-LT; thus, we will not update the results [marked by 2021-08].  
+     ~~* MBMD and DaSiam_LT is the winner and runner-up in the original [VOT2018_LT](http://prints.vicos.si/publications/365/) report.~~    
+     ~~* VOT2018-LT is a subset of VOT2019-LT; thus, we will not update the results [marked by 2021-08].~~  
 
 ## Benchmark
 
