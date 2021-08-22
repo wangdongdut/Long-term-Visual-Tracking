@@ -99,6 +99,18 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ## Benchmark
 
+* **List:**
+
+     | Datasets       | #videos    | #total/min/max/average frames|Absent Label| 
+     |:-----------    |:----------------:|:----------------:|:----------------:|
+     | [VOT2019-LT/VOT2020-LT/VOT2021-LT](https://www.votchallenge.net/)          | **50**          |      XXXX/XXXX/XXXX/XXXX     |  Yes |  
+     | [TLP](https://amoudgl.github.io/tlp/)          | **50**          |      XXXX/XXXX/XXXX/XXXX     |  No |  
+     | [OxUvA](https://oxuva.github.io/long-term-tracking-benchmark/)          | 366 (dev-200/test-**166**)         |     XXXX/XXXX/XXXX/XXXX     |  Yes | 
+     | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-**280**)      |      3.52M/1,000/11,397/2,506 |  Yes |
+     
+     * [UAV-20L](https://uav123.org/) has been included in VOT2018-LT/VOT2019-LT/VOT2020-LT. 
+     * [VOT2018-LT](http://www.votchallenge.net/vot2018/) is a subset of VOT2019-LT/VOT2020-LT/VOT2021-LT. VOT2019-LT, VOT2020-LT and VOT2021-LT are same. 
+
 * **VOT:** . [[Visual Object Tracking Challenge](http://www.votchallenge.net/)]
   * [[VOT2021LT](http://www.votchallenge.net/vot2021/)][[Report](http://prints.vicos.si/publications/384/)]  
   * [[VOT2020LT](http://www.votchallenge.net/vot2020/)][[Report](http://prints.vicos.si/publications/384/)]   
@@ -293,16 +305,3 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * **"pytracking [PrDIMP, SuperDIMP, DIMP, ATOM]":** <br /> 
   https://github.com/visionml/pytracking
   
-
-## Long-term Tracking Datasets:
-* **List:**
-
-     | Datasets       | #videos    | #total/min/max/average frames|Absent Label| 
-     |:-----------    |:----------------:|:----------------:|:----------------:|
-     | [VOT2019-LT/VOT2020-LT/VOT2021-LT](https://www.votchallenge.net/)          | **50**          |      XXXX/XXXX/XXXX/XXXX     |  Yes |  
-     | [TLP](https://amoudgl.github.io/tlp/)          | **50**          |      XXXX/XXXX/XXXX/XXXX     |  No |  
-     | [OxUvA](https://oxuva.github.io/long-term-tracking-benchmark/)          | 366 (dev-200/test-**166**)         |     XXXX/XXXX/XXXX/XXXX     |  Yes | 
-     | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-**280**)      |      3.52M/1,000/11,397/2,506 |  Yes |
-     
-     * [UAV-20L](https://uav123.org/) has been included in VOT2018-LT/VOT2019-LT/VOT2020-LT. 
-     * [VOT2018-LT](http://www.votchallenge.net/vot2018/) is a subset of VOT2019-LT/VOT2020-LT/VOT2021-LT. VOT2019-LT, VOT2020-LT and VOT2021-LT are same. 
