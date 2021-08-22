@@ -9,6 +9,11 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ### Recent Long-term Trackers
 
+* **STARK: Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.** <br />
+"Learning Spatio-Temporal Transformer for Visual Tracking."  ICCV, 2021. 
+[[Paper](https://arxiv.org/abs/2103.17154)]
+[[Code](https://github.com/researchmm/Stark)] <br /> 
+
 * **KeepTrack: Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.** <br />
   "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021). 
   [[Paper](https://arxiv.org/abs/2103.16556)]
