@@ -9,6 +9,11 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ### Recent Long-term Trackers
 
+* **KeepTrack: Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.** <br />
+  "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021). 
+  [[Paper](https://arxiv.org/abs/2103.16556)]
+  [[Project](https://github.com/visionml/pytracking)] <br />  
+
 * **DMTrack: Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.** <br />
   "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021). 
   [[Paper](https://arxiv.org/abs/2104.12041)]
