@@ -130,7 +130,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
   "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
-  [[project](https://oxuva.github.io/long-term-tracking-benchmark/)] **`RGB-D Long-term`**  
+  **`RGB-D Long-term`**  
   
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. <br />
   "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
