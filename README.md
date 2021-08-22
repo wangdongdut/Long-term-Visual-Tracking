@@ -294,26 +294,15 @@ This page focuses on watching the state-of-the-art performance for the long-term
   https://github.com/visionml/pytracking
   
 
-## All Tracking Datasets:
+## Long-term Tracking Datasets:
 * **List:**
 
      | Datasets       | #videos    | #total/min/max/average frames|Absent Label| 
      |:-----------    |:----------------:|:----------------:|:----------------:|
-     | [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/)       | 100            |      59K/71/3,872/590       |  No | 
-     | [TC-128](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)         | 128     | 55K/71/3,872/429   |  No |
-     | [NUS-PRO](https://www.ece.nus.edu.sg/lv/pro/nus_pro.html)        | 365            |      135K/146/5,040/371      |  No |    
-     | [UAV123](https://uav123.org/)                   | 123            |      113K/109/3,085/915      |  No |        
-     | [TB70]()                     | 70           |      XXXX     |  No |          
-     | [ALOV300++](http://alov300pp.joomlafree.it/)    | 315            |      8.9K/XXXX/XXXX/284      |  No |
-     | [NfS](http://ci2cv.net/nfs/index.html)          | 100            |      383K/169/20,665/3,830      |  No |       
-     | [GOT-10k](http://got-10k.aitestunion.com/)      | train-10k, val-180, test-180         |      1.5M      |  No |   
-     | | | |   
-     | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-280)      |      3.52M/1,000/11,397/2,506 |  Yes |
-     | | | |  
-     | [VOT2019-LT/VOT2020-LT](https://www.votchallenge.net/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |  Yes |  
+     | [VOT2019-LT/VOT2020-LT/VOT2021-LT](https://www.votchallenge.net/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |  Yes |  
      | [TLP](https://amoudgl.github.io/tlp/)          | 50          |      XXXX/XXXX/XXXX/XXXX     |  No |  
      | [OxUvA](https://oxuva.github.io/long-term-tracking-benchmark/)          | 366 (dev-200/test-166)         |     XXXX/XXXX/XXXX/XXXX     |  Yes | 
-
-     * [OTB-2013](http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html) is a subset of OTB-2015. 
+     | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-280)      |      3.52M/1,000/11,397/2,506 |  Yes |
+     
      * [UAV-20L](https://uav123.org/) has been included in VOT2018-LT/VOT2019-LT/VOT2020-LT. 
      * [VOT2018-LT](http://www.votchallenge.net/vot2018/) is a subset of VOT2019-LT/VOT2020-LT. VOT2019-LT and VOT2020-LT are same. 
