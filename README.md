@@ -82,9 +82,9 @@ This page focuses on watching the state-of-the-art performance for the long-term
     |:-----------               |:----------------:|:----------------:|:----------------:|
     |  **ATCAIS**:star2:        |   |   |  [Code](https://github.com/tangjiuqi097/ATCAIS)  |
     
-* **VOT2018-LT:**
+* **~~VOT2018-LT:~~**
 
-     | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
+     | ~~Tracker~~                   | ~~F-Score~~    | ~~Speed (fps)~~ | ~~Paper/Code~~ |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | **LTMU (CVPR20)**         | 0.690  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | Siam R-CNN (CVPR20)       | 0.668  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
