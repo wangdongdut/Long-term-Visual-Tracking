@@ -305,4 +305,4 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | [LaSOT](https://cis.temple.edu/lasot/)          | 1,400 (I-all-1,400/II-test-**280**)      |      3.52M/1,000/11,397/2,506 |  Yes |
      
      * [UAV-20L](https://uav123.org/) has been included in VOT2018-LT/VOT2019-LT/VOT2020-LT. 
-     * [VOT2018-LT](http://www.votchallenge.net/vot2018/) is a subset of VOT2019-LT/VOT2020-LT. VOT2019-LT and VOT2020-LT are same. 
+     * [VOT2018-LT](http://www.votchallenge.net/vot2018/) is a subset of VOT2019-LT/VOT2020-LT/VOT2021-LT. VOT2019-LT, VOT2020-LT and VOT2021-LT are same. 
