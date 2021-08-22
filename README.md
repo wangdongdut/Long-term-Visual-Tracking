@@ -9,7 +9,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ## Benchmark Results:
   
-* **VOT2019-LT/VOT2020-LT:**
+* **VOT2019-LT/VOT2020-LT/VOT2021-LT:**
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
@@ -28,13 +28,13 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | FuCoLoT                   | 0.411  | N/A  |   N/A |
      
      * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports. 
-     % Both sequences and settings are same in the VOT2019-LT and VOT2020-LT challenges.  
+     * All sequences and settings are same in the VOT2019-LT, VOT2020-LT  and VOT2021-LT challenges.  
 
 * **OxUvA:**
      | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | **LTMU (CVPR20)**         | 0.751  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
-     | Siam R-CNN (CVPR20)       | 0.723  |  5 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |        
+     | Siam R-CNN (CVPR20)       | 0.723  |  5 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |       
      | **SPLT (ICCV19)**         | 0.622  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | 
      | GlobalTrack (AAAI20)      | 0.603  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |    
      | **MBMD (Arxiv)**          | 0.544  |  4 (GTX 1080Ti)   |   [Paper](https://arxiv.org/abs/1809.0432)/[Code](https://github.com/xiaobai1217/MBMD) |          
