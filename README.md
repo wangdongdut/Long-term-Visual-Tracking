@@ -64,6 +64,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   **"Learning regression and verification networks for long-term visual tracking." Arxiv (2018).**
   [[paper](https://arxiv.org/abs/1809.04320)]
   [[code](https://github.com/xiaobai1217/MBMD)]
+  [[Journal Version](https://link.springer.com/article/10.1007/s11263-021-01487-3)]
   **VOT2018-LT Winner**:star2: 
   
 * **MMLT:** Hankyeol Lee, Seokeon choi, Changick Kim. <br /> 
