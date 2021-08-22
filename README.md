@@ -77,11 +77,6 @@ This page focuses on watching the state-of-the-art performance for the long-term
      * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper. 
      * **[paperswithcode-SOTA](https://paperswithcode.com/sota/visual-object-tracking-on-lasot): https://paperswithcode.com/sota/visual-object-tracking-on-lasot**
     
-* **VOT2019/2020 RGBD:**
-    | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
-    |:-----------               |:----------------:|:----------------:|:----------------:|
-    |  **ATCAIS**:star2:        |   |   |  [Code](https://github.com/tangjiuqi097/ATCAIS)  |
-    
 * **~~VOT2018-LT:~~**
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
