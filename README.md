@@ -162,73 +162,73 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
   **High-Performance Long-Term Tracking with Meta-Updater. CVPR (2020).** 
-  [[paper](https://arxiv.org/abs/2004.00305)]
-  [[code](https://github.com/Daikenan/LTMU)] <br />
+  [[Paper](https://arxiv.org/abs/2004.00305)]
+  [[Code](https://github.com/Daikenan/LTMU)] <br />
   **VOT2019-LT Winner**:star2:,  **VOT2020-LT Winner**:star2: <br />
   `1. This work is an improved version of the VOT2019-LT winner, `**[[LT_DSE](https://github.com/Daikenan/LT_DSE)]**. <br />
   `2. The baseline version is the VOT2020-LT winner, `**[[LTMU_B](https://github.com/Daikenan/LTMU)]**.
   
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. <br />
   "Siam R-CNN: Visual Tracking by Re-Detection." CVPR (2020).
-  [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
-  [[code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
-  [[project](https://www.vision.rwth-aachen.de/page/siamrcnn)] 
+  [[Paper](https://arxiv.org/pdf/1911.12836.pdf)]
+  [[Code](https://github.com/VisualComputingInstitute/SiamR-CNN)]
+  [[Project](https://www.vision.rwth-aachen.de/page/siamrcnn)] 
   
 * **TACT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. <br />
   "Visual Tracking by TridentAlign and Context Embeddin." ACCV (2020).
-  [[paper](https://arxiv.org/pdf/2007.06887.pdf)]
-  [[code](https://github.com/JanghoonChoi/TACT)]
+  [[Paper](https://arxiv.org/pdf/2007.06887.pdf)]
+  [[Code](https://github.com/JanghoonChoi/TACT)]
   
 * **DAL:** Yanlin Qian, Alan Lukežič, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Mata <br /> 
   "DAL - A Deep Depth-aware Long-term Tracker" ICPR (2020).   [[paper](https://arxiv.org/pdf/1912.00660.pdf)] **`RGB-D Long-term`**
  
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
   "GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
-  [[paper](https://arxiv.org/abs/1912.08531)]
-  [[code](https://github.com/huanglianghua/GlobalTrack)]
+  [[Paper](https://arxiv.org/abs/1912.08531)]
+  [[Code](https://github.com/huanglianghua/GlobalTrack)]
 
 * **SPLT: Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang.** <br /> 
   **"Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).**
-  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
-  [[code](https://github.com/iiau-tracker/SPLT)] <br />   **An improved (much faster) version of VOT2018-LT Winner**:star2:
+  [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
+  [[Code](https://github.com/iiau-tracker/SPLT)] <br />   **An improved (much faster) version of VOT2018-LT Winner**:star2:
   
 * **flow_MDNet_RPN:** Han Wu, Xueyuan Yang, Yong Yang, Guizhong Liu. <br />
   "Flow Guided Short-term Trackers with Cascade Detection for Long-term Tracking." ICCVW (2019).
-  [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wu_Flow_Guided_Short-Term_Trackers_with_Cascade_Detection_for_Long-Term_Tracking_ICCVW_2019_paper.pdf)] 
+  [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wu_Flow_Guided_Short-Term_Trackers_with_Cascade_Detection_for_Long-Term_Tracking_ICCVW_2019_paper.pdf)] 
   
 * **OTR:** Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. <br />
   "Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters." CVPR (2019). 
-  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)]
-  [[code](https://github.com/ugurkart/OTR)] **`RGB-D Long-term`**
+  [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)]
+  [[Code](https://github.com/ugurkart/OTR)] **`RGB-D Long-term`**
   
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. 
   "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).
-  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)]
-  [[code](https://github.com/STVIR/pysot)]
+  [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)]
+  [[Code](https://github.com/STVIR/pysot)]
   
 * **MBMD: Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu.** <br />
   **"Learning regression and verification networks for long-term visual tracking." Arxiv (2018).** <br />
-  [[paper](https://arxiv.org/abs/1809.04320)]
-  [[code](https://github.com/xiaobai1217/MBMD)]
+  [[Paper](https://arxiv.org/abs/1809.04320)]
+  [[Code](https://github.com/xiaobai1217/MBMD)]
   [[Journal Version](https://link.springer.com/article/10.1007/s11263-021-01487-3)]
   **VOT2018-LT Winner**:star2: 
   
 * **MMLT:** Hankyeol Lee, Seokeon choi, Changick Kim. <br /> 
   "A Memory Model based on the Siamese Network for Long-term Tracking." ECCVW (2018). 
-  [[paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Lee_A_Memory_Model_based_on_the_Siamese_Network_for_Long-term_ECCVW_2018_paper.pdf)]
-  [[code](https://github.com/bismex/MMLT)] 
+  [[Paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Lee_A_Memory_Model_based_on_the_Siamese_Network_for_Long-term_ECCVW_2018_paper.pdf)]
+  [[Code](https://github.com/bismex/MMLT)] 
  
 * **FuCoLoT:** Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas and Matej Kristan. <br /> 
   "FuCoLoT - A Fully-Correlational Long-Term Tracker." ACCV (2018). 
-  [[paper](http://prints.vicos.si/publications/366)]
-  [[code](https://github.com/alanlukezic/fucolot)] 
+  [[Paper](http://prints.vicos.si/publications/366)]
+  [[Code](https://github.com/alanlukezic/fucolot)] 
   
 ### Long-term Trackers modified from Short-term Ones
 
 * **SiamDW:** Zhipeng Zhang, Houwen Peng. <br /> 
   "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019). 
-  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)]
-  [[code](https://github.com/researchmm/SiamDW)] **VOT2019 RGB-D Winner**:star2: 
+  [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)]
+  [[Code](https://github.com/researchmm/SiamDW)] **VOT2019 RGB-D Winner**:star2: 
   Denoted as "SiamDW_D" "SiamDW_LT", see the VOT2019 official report
   [[vot2019code](https://github.com/researchmm/VOT2019)]
   
