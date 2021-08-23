@@ -9,11 +9,12 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ## Benchmark Results:
   
-* **VOT2019-LT/VOT2020-LT/VOT2021-LT:**
+* **VOT2019-LT/VOT2020-LT/VOT2021-LT:star2:**
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | KeepTrack (ICCV21)        | 0.709  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
+     | STARK (ICCV21)            | 0.701  |  32 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2103.17154)/[Code](https://github.com/researchmm/Stark) |  
      | **LTMU (CVPR20)**:star2:  | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | **LT_DSE**:star2:         | 0.695  | N/A  |   N/A |
      | **LTMU_B**:star2:         | 0.691  | N/A  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) | 
@@ -31,7 +32,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports. 
      * All sequences and settings are same in the VOT2019-LT, VOT2020-LT  and VOT2021-LT challenges.  
 
-* **OxUvA:**
+* **OxUvA:star2:**
      | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | KeepTrack (ICCV21)        | 0.809  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
@@ -45,7 +46,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      * OxUvA Leaderboard: https://competitions.codalab.org/competitions/19529#results
      * SiamFC+R is the best tracker in the original [OxUvA](https://arxiv.org/pdf/1803.09502.pdf) paper.
 
-* **TLP:**
+* **TLP:star2:**
 
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
