@@ -18,7 +18,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | **LTMU (CVPR20)**         | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | **LT_DSE**                | 0.695  | N/A  |   N/A |
      | **LTMU_B**                | 0.691  | N/A  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) | 
-     | DMTrack (CVPR21)          | 0.687  |  31 (Titan XP)    |   [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)]/[[Project](https://github.com/hqucv/dmtrack)]  |
+     | DMTrack (CVPR21)          | 0.687  |  31 (Titan XP)    |   [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)/[Project](https://github.com/hqucv/dmtrack)  |
      | Megtrack                  | 0.687  | N/A  |   N/A |
      | CLGS                      | 0.674  | N/A  |   N/A |
      | SiamDW_LT                 | 0.665  | N/A  |   N/A |
@@ -39,8 +39,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | KeepTrack (ICCV21)        | 0.809  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
      | **LTMU (CVPR20)**         | 0.751  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | Siam R-CNN (CVPR20)       | 0.723  |  5 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |       
-     | DMTrack (CVPR21)          | 0.688  |  31 (Titan XP)    |   [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)]
-  [[Project](https://github.com/hqucv/dmtrack)]  |     
+     | DMTrack (CVPR21)          | 0.688  |  31 (Titan XP)    |   [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)/[Project](https://github.com/hqucv/dmtrack)  |
      | **SPLT (ICCV19)**         | 0.622  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | 
      | GlobalTrack (AAAI20)      | 0.603  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |    
      | **MBMD (Arxiv)**          | 0.544  |  4 (GTX 1080Ti)   |   [Paper](https://arxiv.org/abs/1809.0432)/[Code](https://github.com/xiaobai1217/MBMD) |          
@@ -54,8 +53,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | Tracker                   | Success Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
      | **LTMU (CVPR20)**         | 0.571  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
-     | DMTrack (CVPR21)          | 0.541  |  31 (Titan XP)    |   [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)]
-  [[Project](https://github.com/hqucv/dmtrack)]  |
+     | DMTrack (CVPR21)          | 0.541  |  31 (Titan XP)    |   [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)/[Project](https://github.com/hqucv/dmtrack)  |
      | GlobalTrack (AAAI20)      | 0.520  |  6 (GTX TitanX)   |   [Paper](https://arxiv.org/abs/1912.08531)/[Code](https://github.com/huanglianghua/GlobalTrack) |
      | **SPLT (ICCV19)**         | 0.416  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
      | MDNet (CVPR16)            | 0.372  |  5 (GTX 1080Ti)       | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf)/[Code](https://github.com/hyeonseobnam/py-MDNet) |
@@ -73,8 +71,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      | Siam R-CNN (CVPR20)       | 0.648  |  5 (Tesla V100)   |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |
      | TrDimp (CVPR21)           | 0.639  |  26 (GTX 1080Ti)  |   [Paper](https://arxiv.org/abs/2103.11681)/[Code](https://github.com/594422814/TransformerTrack) |
      | PrDiMP50 (CVPR20)         | 0.598  |  30 (Unkown GPU)  |   [Paper](https://arxiv.org/pdf/2003.12565.pdf)/[Code](https://github.com/visionml/pytracking)  |
-     | DMTrack (CVPR21)          | 0.580  |  31 (Titan XP)    |   [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)]
-  [[Project](https://github.com/hqucv/dmtrack)]  |
+     | DMTrack (CVPR21)          | 0.580  |  31 (Titan XP)    |   [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)/[Project](https://github.com/hqucv/dmtrack)  |
      | **LTMU (CVPR20)**         | 0.572  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | DiMP50 (ICCV19)           | 0.568  |  43 (GTX 1080)    |   [Paper](https://arxiv.org/pdf/1904.07220.pdf)/[Code](https://github.com/visionml/pytracking)  |
      | Ocean (ECCV20)            | 0.560  |  25 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2006.10721)/[Code](https://github.com/researchmm/TracKit) |  
