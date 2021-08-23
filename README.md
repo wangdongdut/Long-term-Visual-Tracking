@@ -278,7 +278,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
   [[paper](https://ieeexplore.ieee.org/document/6104061)]
   [[project](https://github.com/zk00006/OpenTLD)]
 
-## Measurement&Discussion:   
+## Measurement & Discussion:   
 
 * Alan Lukežič, Luka Čehovin Zajc, Tomáš Vojíř, Jiří Matas, Matej Krista.
   "Performance Evaluation Methodology for Long-Term Visual Object Tracking." ArXiv (2019).
@@ -291,15 +291,3 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * Shyamgopal Karthik, Abhinav Moudgil, Vineet Gandhi.
   "Exploring 3 R's of Long-term Tracking: Re-detection, Recovery and Reliability." WACV (2020). 
   [[paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Karthik_Exploring_3_Rs_of_Long-term_Tracking_Redetection_Recovery_and_Reliability_WACV_2020_paper.pdf)]
-
-## Resources:
-
-* **"Paper, Benchmark, Researchers, Teams" maintained by Qiang Wang:** <br /> 
-  https://github.com/foolwood/benchmark_results
-
-* **"pysot [SiamRPN++, SiamMask, DaSiamRPN, SiamRPN]":** <br /> 
-  https://github.com/STVIR/pysot
-
-* **"pytracking [PrDIMP, SuperDIMP, DIMP, ATOM]":** <br /> 
-  https://github.com/visionml/pytracking
-  
