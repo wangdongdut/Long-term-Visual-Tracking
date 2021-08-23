@@ -13,6 +13,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
+     | KeepTrack (ICCV21)        | 0.709  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
      | **LTMU (CVPR20)**:star2:  | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | **LT_DSE**:star2:         | 0.695  | N/A  |   N/A |
      | **LTMU_B**:star2:         | 0.691  | N/A  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) | 
@@ -33,6 +34,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 * **OxUvA:**
      | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
+     | KeepTrack (ICCV21)        | 0.809  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
      | **LTMU (CVPR20)**         | 0.751  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
      | Siam R-CNN (CVPR20)       | 0.723  |  5 (Tesla V100) |   [Paper](https://arxiv.org/pdf/1911.12836.pdf)/[Code](https://github.com/VisualComputingInstitute/SiamR-CNN) |       
      | **SPLT (ICCV19)**         | 0.622  |  26 (GTX 1080Ti)       |      [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) | 
