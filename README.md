@@ -157,7 +157,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 * **DMTrack: Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.** <br />
   "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021). 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.html)]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)]
   [[Project](https://github.com/hqucv/dmtrack)] <br />  
 
 * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
