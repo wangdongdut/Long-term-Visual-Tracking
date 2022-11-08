@@ -86,6 +86,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
      
      * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports. 
      * All sequences and settings are same in the VOT2019-LT, VOT2020-LT  and VOT2021-LT challenges.  
+     * We will not update the results [marked by 2022-11]. Please focus on VOT2022-LT. 
 
 * **~~VOT2018-LT:~~**
 
