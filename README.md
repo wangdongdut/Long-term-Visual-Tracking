@@ -10,29 +10,7 @@ This page focuses on watching the state-of-the-art performance for the long-term
 
 ## Benchmark Results:
   
-* **VOT2019-LT/VOT2020-LT/VOT2021-LT:star2:**
 
-     | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
-     |:-----------               |:----------------:|:----------------:|:----------------:|
-     | KeepTrack (ICCV21)        | 0.709  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
-     | **STARK (ICCV21)**        | 0.701  |  32 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2103.17154)/[Code](https://github.com/researchmm/Stark) |  
-     | **LTMU (CVPR20)**         | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
-     | **LT_DSE**                | 0.695  | N/A  |   N/A |
-     | **LTMU_B**                | 0.691  | N/A  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) | 
-     | DMTrack (CVPR21)          | 0.687  |  31 (Titan XP)    |   [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)/[Project](https://github.com/hqucv/dmtrack)  |
-     | Megtrack                  | 0.687  | N/A  |   N/A |
-     | CLGS                      | 0.674  | N/A  |   N/A |
-     | SiamDW_LT                 | 0.665  | N/A  |   N/A |
-     | **SPLT (ICCV19)**:star2:  | 0.587  |  26 (GTX 1080Ti)  |   [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
-     | mbdet                     | 0.567  | N/A  |   N/A |    
-     | SiamRPNsLT                | 0.556  | N/A  |   N/A |     
-     | Siamfcos-LT               | 0.520  | N/A  |   N/A |
-     | CooSiam                   | 0.508  | N/A  |   N/A |    
-     | ASINT                     | 0.505  | N/A  |   N/A |     
-     | FuCoLoT                   | 0.411  | N/A  |   N/A |
-     
-     * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports. 
-     * All sequences and settings are same in the VOT2019-LT, VOT2020-LT  and VOT2021-LT challenges.  
 
 * **OxUvA:star2:**
      | Tracker                   | MaxGM    | Speed (fps) | Paper/Code |
@@ -84,7 +62,31 @@ This page focuses on watching the state-of-the-art performance for the long-term
      * **Baseline(long-term): SPLT, GlobalTrack, LTMU, Siam R-CNN** 
      * MDNet is the best tracker in the original [LaSOT](https://cis.temple.edu/lasot/) paper. 
      * **[paperswithcode-SOTA](https://paperswithcode.com/sota/visual-object-tracking-on-lasot): https://paperswithcode.com/sota/visual-object-tracking-on-lasot**
-    
+
+* **~~VOT2019-LT/VOT2020-LT/VOT2021-LT~~**
+
+     | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
+     |:-----------               |:----------------:|:----------------:|:----------------:|
+     | KeepTrack (ICCV21)        | 0.709  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
+     | **STARK (ICCV21)**        | 0.701  |  32 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2103.17154)/[Code](https://github.com/researchmm/Stark) |  
+     | **LTMU (CVPR20)**         | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
+     | **LT_DSE**                | 0.695  | N/A  |   N/A |
+     | **LTMU_B**                | 0.691  | N/A  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) | 
+     | DMTrack (CVPR21)          | 0.687  |  31 (Titan XP)    |   [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)/[Project](https://github.com/hqucv/dmtrack)  |
+     | Megtrack                  | 0.687  | N/A  |   N/A |
+     | CLGS                      | 0.674  | N/A  |   N/A |
+     | SiamDW_LT                 | 0.665  | N/A  |   N/A |
+     | **SPLT (ICCV19)**:star2:  | 0.587  |  26 (GTX 1080Ti)  |   [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
+     | mbdet                     | 0.567  | N/A  |   N/A |    
+     | SiamRPNsLT                | 0.556  | N/A  |   N/A |     
+     | Siamfcos-LT               | 0.520  | N/A  |   N/A |
+     | CooSiam                   | 0.508  | N/A  |   N/A |    
+     | ASINT                     | 0.505  | N/A  |   N/A |     
+     | FuCoLoT                   | 0.411  | N/A  |   N/A |
+     
+     * Most results are obtained from the original [VOT2019](http://prints.vicos.si/publications/375/) and [VOT2020](http://prints.vicos.si/publications/375/) reports. 
+     * All sequences and settings are same in the VOT2019-LT, VOT2020-LT  and VOT2021-LT challenges.  
+
 * **~~VOT2018-LT:~~**
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
