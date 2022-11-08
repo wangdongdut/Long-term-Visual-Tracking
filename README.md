@@ -262,9 +262,9 @@ This page focuses on watching the state-of-the-art performance for the long-term
   
   
   
-  ## Previous Benchmark Results: 
+## Previous Benchmark Results: 
   
-  * **~~VOT2019-LT/VOT2020-LT/VOT2021-LT~~**
+ * **~~VOT2019-LT/VOT2020-LT/VOT2021-LT~~**
 
      | Tracker                   | F-Score    | Speed (fps) | Paper/Code |
      |:-----------               |:----------------:|:----------------:|:----------------:|
